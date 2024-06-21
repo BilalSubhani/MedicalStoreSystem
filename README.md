@@ -21,7 +21,7 @@ Clone the repository and run the program to interact with the Medical Store Syst
 
 ## Wiki
 
-For detailed documentation and further information about installation, usage, and customization, refer to the [Wiki](https://github.com/your_username/MedicalStoreSystem/wiki).
+For detailed documentation and further information about installation, usage, and customization, refer to the [Wiki](https://github.com/BilalSubhani/MedicalStoreSystem/wiki).
 
 ## Support
 
