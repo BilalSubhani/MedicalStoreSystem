@@ -1,0 +1,10 @@
+1	IberetFolic	Allopathic	Available	300
+2	ExenD		Allopathic	Unavailable 	500
+3	NuberolForte	Allopathic	Available	500
+4	Gutcare		Allopathic	Unavailable	450 
+5	Rigix		Allopathic	Unavailable	50 
+6	Safi		Herbal		Available	200
+7	Paracetamol	Allopathic	Available	50 
+8	Bioplasgen	Homeopathic	Available	800
+9	JoharJoshanda	Herbal		Available	500
+10	Phosphorus	Homeopathic	Unavailable	700
